@@ -23,7 +23,7 @@
   align-items: center;
 }
 .product:last-child {
-  margin: 10px 30px 50px 30px;
+  margin: 10px 30px 100px 30px;
 }
 @media screen and (max-width: 900px) {
   .product {
