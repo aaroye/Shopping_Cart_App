@@ -1,10 +1,12 @@
 .navbar {
   width: 100%;
+  top: 0;
   height: 80px;
   background-color: rgb(46, 46, 46);
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  position: sticky;
 }
 
 .links {
